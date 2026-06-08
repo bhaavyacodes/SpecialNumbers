@@ -1,4 +1,4 @@
-# C Assignment — Functions and Header Files
+# C — Functions and Header Files
 
 ## Contents
 This project demonstrates modular C programming using functions and header files.  
