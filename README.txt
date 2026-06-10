@@ -1,28 +1,38 @@
 # C — Functions and Header Files
 
-## Contents
-This project demonstrates modular C programming using functions and header files.  
-It includes two objectives:
+This project explores modular programming in C using user-defined functions and header files.
 
-### Objective 1 — Number property functions
+## 📂 Contents
+
+### 🔹 Number Property Functions
+
 Files:
-- main1.c
-- mylib.c
-- mylib.h
 
-Implements:
-- Armstrong number check  
-- Adams number check  
-- Prime Palindrome check
+* `main1.c`
+* `mylib.c`
+* `mylib.h`
 
-### Objective 2 — 1D Array utilities
+Features:
+
+* Armstrong Number Check
+* Adams Number Check
+* Prime Palindrome Check
+
+### 🔹 1D Array Utilities
+
 Files:
-- main2.c
-- arraylib.c
-- arraylib.h
 
-Implements:
-- Find max/min index  
-- Find average  
-- Reverse & sort array  
-- Linear search
+* `main2.c`
+* `arraylib.c`
+* `arraylib.h`
+
+Features:
+
+* Find Maximum & Minimum Index
+* Calculate Average
+* Reverse and Sort Array
+* Linear Search
+
+## 🎯 Objective
+
+To understand code modularization, function reuse, and the use of header files in C programming.
